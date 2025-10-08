@@ -1,4 +1,6 @@
-# Open Transport
+
+
+demain je serai un très grand informaticien mais pour cela il faut que je travaille assez.
 
 Application web pour covoiturage. 
 
@@ -59,3 +61,5 @@ Merci de lire les fichiers :
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+demain je serai un très grand informaticien mais pour cela il faut que je travaille assez.
